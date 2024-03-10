@@ -1,6 +1,4 @@
-# GTA GSM
-
-Property of Aurelis
+# Transportation Management System
 
 ### Installation
 
@@ -21,6 +19,5 @@ npm start
 4. web app will now try running at localhost:3000
 
 ### reqs:
-
 - Npm
 - (Recommended: associated plugins for js/ts/react/chakra for vscode)
